@@ -8,7 +8,7 @@
 <title>Display</title>
 </head>
 <body>
-	<h2>Student DataBase</h2>
+	<h2>Exams DataBase</h2>
 	<table>
 		<tr>
 			<th>ExamId</th>
@@ -22,7 +22,7 @@
 			</tr>
 		</c:forEach>
 	</table>
-	<br><a href="addExam">Add New Student</a><br><br>
+	<br><a href="addExam">Add New Exam</a><br><br>
 	<a href="modules">Go back</a>
 </body>
 </html>

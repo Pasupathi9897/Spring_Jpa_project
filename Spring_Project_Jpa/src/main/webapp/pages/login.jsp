@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="loginvalidate" method="post">
+<form action="modules" method="post">
 	<table>
 			<tr>
 				<td>User Name</td>
