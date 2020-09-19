@@ -11,7 +11,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.dxc.beans.Student;
 import com.dxc.dao.StudentRepository;
-//checking
+
 @Controller
 public class StudentController {
 	

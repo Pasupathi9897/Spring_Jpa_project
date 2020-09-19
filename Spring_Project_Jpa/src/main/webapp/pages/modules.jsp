@@ -9,7 +9,7 @@
 <body>
 <h1>Select your Modules</h1><br>
 <a href="studentdisplay">Student</a><br>
-<a href="examDisplay">Exam</a><br>
+<a href="examdisplay">Exam</a><br>
 <a href="markDisplay">Mark</a>
 </body>
 </html>
