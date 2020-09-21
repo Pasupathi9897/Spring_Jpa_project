@@ -8,7 +8,7 @@
 <title>Display</title>
 </head>
 <body>
-	<h2>Exams DataBase</h2>
+	<h2>Exam DataBase</h2>
 	<table>
 		<tr>
 			<th>ExamId</th>
