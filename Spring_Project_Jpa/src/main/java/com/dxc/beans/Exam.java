@@ -2,7 +2,7 @@ package com.dxc.beans;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-
+//ppp
 @Entity
 public class Exam {
 
